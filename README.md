@@ -20,7 +20,7 @@ This is a Node.js backend API for user authentication and profile management. It
 2. Navigate to the project directory:
 
     ```bash
-    cd user-authentication-api
+    cd voosh-assignment
 
 3. Install dependencies:
 
